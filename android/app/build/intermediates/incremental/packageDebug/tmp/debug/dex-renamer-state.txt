@@ -1,0 +1,4 @@
+#Fri Mar 20 00:46:00 WET 2020
+base.0=/home/jonas/www/maps/teste/maps/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
